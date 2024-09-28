@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.com/users/590919682131755049" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="tobi2150" height="30" width="40" /></a>
-<a href="mailto: tobias.schulte@darkhex24.de" target="blank"><img align="center" src="https://www.svgrepo.com/show/511921/email-1573.svg" alt="tobias.schulte@darkhex24.de" height="30" width="40" /></a>
+<a href="mailto: schulte.tobias@darkhex24.de" target="blank"><img align="center" src="https://www.svgrepo.com/show/511921/email-1573.svg" alt="schulte.tobias@darkhex24.de" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
