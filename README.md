@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobicb11&label=Profile%20views&color=0e75b6&style=flat" alt="tobicb11" /> </p>
 
-- 🔭 I’m currently working on [DarkHex24.de](https://darkhex24.de/)
+- 🔭 I’m currently working on [DarkHex24.de](https://darkhex24.net/)
 
 - 👯 I’m playing **Minecraft or FiveM**
 
