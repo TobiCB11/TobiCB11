@@ -3,14 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobicb11&label=Profile%20views&color=0e75b6&style=flat" alt="tobicb11" /> </p>
 
-- 🔭 I’m currently working on [DarkHex24](https://darkhex24.net/)
+- 🔭 I’m currently working on 
 
 - 👯 I’m playing **Minecraft or FiveM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.com/users/590919682131755049" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="tobi2150" height="30" width="40" /></a>
-<a href="mailto: schulte.tobias@darkhex24.de" target="blank"><img align="center" src="https://www.svgrepo.com/show/511921/email-1573.svg" alt="schulte.tobias@darkhex24.de" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
